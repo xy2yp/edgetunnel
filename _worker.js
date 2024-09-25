@@ -1198,7 +1198,7 @@ async function ADD(envadd) {
 function checkSUB(host) {
 	if ((!sub || sub == '') && (addresses.length + addressesapi.length + addressesnotls.length + addressesnotlsapi.length + addressescsv.length) == 0){
 		addresses = [
-			'Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz#加入我的频道t.me/CMLiussss解锁更多优选节点',
+			'测试节点',
 			'visa.cn:443',
 			'www.visa.com:8443',
 			'cis.visa.com:2053',
